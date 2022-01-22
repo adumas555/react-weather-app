@@ -69,11 +69,11 @@ export default function App() {
       <br />
       <p className="about-me">
         This project was coded by Angela Dumas and
-        <a href="https://github.com/adumas555/weather-app">
+        <a href="https://github.com/adumas555/react-weather-app">
           is open sourced on GitHub
         </a>
         and
-        <a href="https://serene-pike-6e3b77.netlify.app/">
+        <a href="https://heuristic-bardeen-082e9c.netlify.app/">
           is hosted on Netlify
         </a>
       </p>
