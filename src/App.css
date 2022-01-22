@@ -10,8 +10,8 @@
   border-radius: 25px;
   border: 2px solid black;
   padding: 14px 36px;
-  width: 200px;
-  height: 15px;
+  width: 150px;
+  height: 5px;
   text-align: center;
   display: block;
   margin: 0 auto;
@@ -23,7 +23,7 @@
   margin: 0 auto;
   background: #c9c0bb;
   border: 1px solid #848482;
-  border-radius: 10px;
+  border-radius: 7px;
   margin-top: 5px;
   text-align: center;
 }
