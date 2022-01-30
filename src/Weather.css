@@ -112,11 +112,10 @@ hr {
   font-size: 15px;
 }
 
-.far:hover {
-  color: #065077;
+.Temperature a {
+  color: #2d3236;
 }
-
-.cel:hover {
+a:hover {
   color: #065077;
 }
 
