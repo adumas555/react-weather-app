@@ -74,12 +74,7 @@ export default function Weather(props) {
                 📍
               </span>
             </button>
-            <p className="international">
-              <span className="hub1"> Los Angeles </span>
-              <span className="hub2"> London </span>
-              <span className="hub3"> Seoul </span>
-              <span className="hub4"> Sydney </span>
-            </p>
+
             <WeatherInfo data={weatherData} />
             <hr />
             <WeatherForecast coordinates={weatherData.coordinates} />
