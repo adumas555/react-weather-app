@@ -8,16 +8,17 @@ export default function App() {
       <div class="container">
         <Weather defaultCity="New York" />
         <br />
-        <p className="about-me">
-          This project was coded by Angela Dumas and
+
+        <footer>
+          This project was coded by Angela Dumas and and is{" "}
           <a
             href="https://github.com/adumas555/react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
-            is open sourced on GitHub
-          </a>
-          and
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
           <a
             href="https://heuristic-bardeen-082e9c.netlify.app/"
             target="_blank"
@@ -25,7 +26,7 @@ export default function App() {
           >
             is hosted on Netlify
           </a>
-        </p>
+        </footer>
       </div>
     </div>
   );
